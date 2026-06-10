@@ -1,0 +1,31 @@
+{
+  "name": "label-verify-ai",
+  "version": "1.0.0",
+  "description": "AI-powered alcohol beverage label compliance verification — Dr. Ahmed Mohamed Ibrahim",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .jsx,.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "javascript-obfuscator": "^5.4.3",
+    "vite": "^6.0.5"
+  },
+  "author": "Dr. Ahmed Mohamed Ibrahim <info@elevationtechnology.org>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://label-verify-ai.pages.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedibrahimno1/label-verify-ai-public"
+  }
+}
